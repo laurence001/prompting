@@ -1,5 +1,5 @@
 
-# Universal Prompt Table for Fact-Check Tasks
+# First iteration of prompts for fact-checkings tasks
 
 | **Type of Prompt** | **Task**       | **Prompt** |
 |--------------------|----------------|------------|
