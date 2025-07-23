@@ -1,0 +1,23 @@
+﻿Task;Metrics;U-Statistic;P-Value;Significance
+CONDENSATION;avg_alignscore;784;0;Significant
+CONDENSATION;avg_levenshtein;431;0,5281;Not significant
+CONDENSATION;avg_generated_length;435;0,4862;Not significant
+CONDENSATION;avg_original_length;728;0;Significant
+CONDENSATION;human;286;0,0827;Not significant
+CONDENSATION;avg_rougeL;283,5;0,0768;Not significant
+CONDENSATION;length_difference;433;0,5069;Not significant
+CONDENSATION;avg_rouge1;228,5;0,0076;Significant
+CONDENSATION;avg_bleurt;198;0,0015;Significant
+CONDENSATION;avg_bertscore;217;0,0042;Significant
+CONDENSATION;avg_meteor;250,5;0,0209;Significant
+CONDENSATION;avg_rouge2;271,5;0,0492;Significant
+EVALUATION;F1-Score;528,5;0,0209;Significant
+EVALUATION;avg_alignscore;767,5;0;Significant
+EVALUATION;human;529;0,0208;Significant
+GENERATION;avg_rougeL;417;0,688;Not significant
+GENERATION;avg_meteor;354,5;0,5443;Not significant
+GENERATION;avg_bertscore;368;0,7002;Not significant
+GENERATION;avg_bleurt;338;0,3807;Not significant
+GENERATION;avg_rouge1;427;0,5718;Not significant
+GENERATION;avg_rouge2;413;0,7369;Not significant
+GENERATION;human;374,5;0,7788;Not significant
