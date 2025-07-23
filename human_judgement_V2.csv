@@ -1,0 +1,106 @@
+﻿text_id,prompt,s_chatgpt_generation,s_chatgpt_condensation,s_chatgpt_evaluation,s_gemini_generation,gemini_condensation,s_gemini_evaluation,s_llama_generation,llama_condensation,s_llama_evaluation,s_grok_generation,s_grok_condensation,s_grok_evaluation
+FC_01,Vanilla,1,1,1,1,1,1,1,1,1,1,1,1
+FC_01,Ask-me-anything,0,1,1,1,0,1,1,1,1,1,1,1
+FC_01,Chain-of-Thought,1,1,1,1,0,1,1,1,1,1,1,1
+FC_01,Contextual,1,1,1,1,1,1,0,0,1,1,1,1
+FC_01,Least-to-most ,0,0,1,1,0,1,1,0,1,1,0,1
+FC_01,Role,1,0,1,1,0,1,0,1,1,1,0,1
+FC_01,Zero-shot,1,0,1,1,0,1,1,1,1,1,1,1
+FC_02,Vanilla,0,1,1,1,0,1,0,1,0,1,1,1
+FC_02,Ask-me-anything,1,1,1,1,0,1,1,0,1,1,1,1
+FC_02,Chain-of-Thought,0,0,1,0,0,1,1,0,1,1,1,1
+FC_02,Contextual,0,0,1,1,1,1,1,0,1,1,1,1
+FC_02,Least-to-most ,1,0,1,1,0,1,1,0,1,1,0,1
+FC_02,Role,1,0,1,1,0,1,1,0,1,1,0,1
+FC_02,Zero-shot,1,0,1,1,0,1,1,1,1,1,0,1
+FC_03,Vanilla,1,1,1,0,1,1,1,1,1,1,1,1
+FC_03,Ask-me-anything,1,1,1,1,0,1,1,0,1,1,0,1
+FC_03,Chain-of-Thought,1,1,1,1,0,1,1,0,1,1,1,1
+FC_03,Contextual,1,1,1,1,1,1,1,0,1,1,0,1
+FC_03,Least-to-most ,1,0,1,1,0,1,1,0,1,1,0,1
+FC_03,Role,1,0,1,1,0,1,0,0,1,1,0,1
+FC_03,Zero-shot,1,0,1,1,0,1,1,1,1,1,0,1
+FC_04,Vanilla,1,0,1,0,1,1,0,1,0,0,1,1
+FC_04,Ask-me-anything,1,1,1,0,1,1,1,0,1,0,1,0
+FC_04,Chain-of-Thought,1,1,1,1,1,1,0,1,1,0,1,1
+FC_04,Contextual,1,1,1,1,1,1,1,0,1,1,1,1
+FC_04,Least-to-most ,0,1,1,0,1,1,0,1,1,0,1,0
+FC_04,Role,1,1,0,0,1,1,0,1,1,0,1,1
+FC_04,Zero-shot,1,1,1,1,1,1,1,0,1,1,1,1
+FC_05,Vanilla,1,0,1,1,1,1,0,0,1,0,1,1
+FC_05,Ask-me-anything,1,0,1,1,0,1,0,0,1,0,0,1
+FC_05,Chain-of-Thought,1,0,1,1,0,1,0,1,1,1,0,1
+FC_05,Contextual,1,1,1,1,0,1,0,0,1,0,0,1
+FC_05,Least-to-most ,1,0,1,0,0,1,0,0,1,0,0,1
+FC_05,Role,1,0,1,0,0,1,0,0,1,1,0,1
+FC_05,Zero-shot,1,0,1,1,0,1,0,1,1,0,0,1
+FC_06,Vanilla,1,1,1,1,0,1,1,1,1,1,0,1
+FC_06,Ask-me-anything,1,1,1,1,0,1,1,1,1,1,0,1
+FC_06,Chain-of-Thought,1,1,1,1,0,1,1,0,1,1,0,1
+FC_06,Contextual,1,0,1,1,0,1,1,1,1,1,0,1
+FC_06,Least-to-most ,1,1,1,1,0,1,1,0,1,1,1,1
+FC_06,Role,1,0,1,1,0,1,1,1,1,1,0,1
+FC_06,Zero-shot,1,0,1,1,0,1,1,0,1,1,0,1
+FC_07,Vanilla,0,1,0,0,0,0,1,1,0,1,1,0
+FC_07,Ask-me-anything,0,0,0,0,0,0,0,0,0,0,1,0
+FC_07,Chain-of-Thought,0,1,0,0,0,0,1,0,0,1,1,0
+FC_07,Contextual,0,0,0,0,0,0,0,0,0,0,0,0
+FC_07,Least-to-most ,0,0,0,0,0,0,1,0,0,1,0,0
+FC_07,Role,0,0,0,0,0,0,0,0,0,1,0,0
+FC_07,Zero-shot,1,0,0,0,0,0,0,0,0,1,1,0
+FC_08,Vanilla,1,1,1,0,1,1,0,1,1,1,1,1
+FC_08,Ask-me-anything,1,1,1,0,1,1,0,0,1,1,1,1
+FC_08,Chain-of-Thought,1,1,1,1,1,1,1,1,1,1,1,1
+FC_08,Contextual,1,1,1,1,1,1,1,1,1,0,1,1
+FC_08,Least-to-most ,1,1,1,1,1,1,0,0,1,1,1,1
+FC_08,Role,1,1,1,0,1,1,1,1,1,1,1,1
+FC_08,Zero-shot,1,1,1,0,1,1,0,1,1,1,1,1
+FC_09,Vanilla,1,1,1,1,1,1,1,1,1,0,1,1
+FC_09,Ask-me-anything,1,1,1,0,0,1,1,1,1,0,0,1
+FC_09,Chain-of-Thought,1,1,1,0,0,0,1,1,1,1,0,1
+FC_09,Contextual,1,1,1,1,0,1,1,1,1,0,0,1
+FC_09,Least-to-most ,1,0,1,0,0,0,1,0,1,1,0,1
+FC_09,Role,1,0,1,0,0,1,1,0,1,1,0,1
+FC_09,Zero-shot,1,0,1,0,0,1,1,0,1,1,0,1
+FC_10,Vanilla,1,1,1,1,1,1,1,0,1,1,1,1
+FC_10,Ask-me-anything,1,0,1,1,0,1,0,1,1,1,1,1
+FC_10,Chain-of-Thought,1,1,1,1,0,1,1,0,1,1,0,1
+FC_10,Contextual,1,1,1,1,0,1,1,0,1,0,0,1
+FC_10,Least-to-most ,1,0,1,1,0,1,1,0,1,1,0,1
+FC_10,Role,1,0,1,1,0,1,1,0,1,1,0,1
+FC_10,Zero-shot,1,0,1,1,0,1,1,0,1,1,0,1
+FC_11,Vanilla,1,1,1,1,1,1,1,1,1,1,1,1
+FC_11,Ask-me-anything,1,1,1,1,0,1,1,1,1,1,1,1
+FC_11,Chain-of-Thought,1,1,1,1,0,1,1,1,1,1,0,1
+FC_11,Contextual,1,1,1,1,0,1,1,1,1,1,1,1
+FC_11,Least-to-most ,1,0,1,1,0,1,1,0,1,1,0,1
+FC_11,Role,1,0,1,1,0,1,1,0,1,1,0,1
+FC_11,Zero-shot,1,0,1,1,0,1,1,1,1,1,1,1
+FC_12,Vanilla,1,1,1,1,0,1,1,1,1,1,1,1
+FC_12,Ask-me-anything,1,1,1,0,0,1,0,1,1,1,1,1
+FC_12,Chain-of-Thought,1,1,1,1,0,1,1,0,1,0,0,1
+FC_12,Contextual,1,1,1,1,0,1,0,1,1,0,1,1
+FC_12,Least-to-most ,1,1,1,0,0,1,1,1,1,1,1,1
+FC_12,Role,1,1,1,0,0,1,1,1,0,1,0,1
+FC_12,Zero-shot,1,1,1,1,0,1,0,1,1,1,0,1
+FC_13,Vanilla,1,1,1,1,1,1,0,1,1,1,0,1
+FC_13,Ask-me-anything,1,0,1,1,1,1,0,1,1,1,1,1
+FC_13,Chain-of-Thought,1,1,1,1,0,1,0,1,1,1,0,1
+FC_13,Contextual,1,1,1,1,0,1,1,1,1,1,0,1
+FC_13,Least-to-most ,1,1,1,1,0,1,0,1,0,1,0,0
+FC_13,Role,1,0,1,1,0,1,1,1,1,1,0,1
+FC_13,Zero-shot,1,1,1,1,0,1,0,1,1,1,0,1
+FC_14,Vanilla,1,1,1,1,1,1,1,1,1,1,1,1
+FC_14,Ask-me-anything,1,1,1,1,1,1,1,1,1,1,1,1
+FC_14,Chain-of-Thought,1,1,1,1,1,1,1,1,1,1,1,1
+FC_14,Contextual,1,1,1,0,1,0,0,1,1,1,1,1
+FC_14,Least-to-most ,1,1,1,1,1,1,0,1,1,1,1,1
+FC_14,Role,1,1,1,1,1,1,1,1,1,1,1,1
+FC_14,Zero-shot,1,0,1,1,1,1,0,1,1,1,1,1
+FC_15,Vanilla,1,1,1,1,1,1,1,1,1,1,1,1
+FC_15,Ask-me-anything,1,1,1,0,1,1,1,1,1,1,1,1
+FC_15,Chain-of-Thought,1,1,1,0,1,1,0,1,1,1,1,1
+FC_15,Contextual,1,1,1,1,1,1,1,1,1,1,1,1
+FC_15,Least-to-most ,1,1,1,1,1,1,1,1,1,1,1,1
+FC_15,Role,1,1,1,1,1,1,1,1,1,1,1,1
+FC_15,Zero-shot,1,1,1,1,1,1,1,1,1,1,1,1
