@@ -2,7 +2,7 @@
 
 | **Type of Prompt**   | **Task**       | **Prompt** |
 |----------------------|----------------|------------|
-| Vanilla              | Condensation   | Please summarise the fact-check including these three components: 1) The main claim (assertion), 2) The key evidence, 3) The verdict (conclusion). You may present this summary as a lead, a sentence, or bullet points. |
+| Vanilla              | Condensation   | Please make a short summary of the fact-check in three bullet points/one sentence/two parts including the assertion and the conclusion. |
 | Vanilla              | Evaluation     | Please provide the verdict for the fact-check. Is the claim true, false, mixed, or another suitable category? Explain your reasoning based on the evidence. |
 | Vanilla              | Generation     | Please generate one headline for the fact-check that clearly reflects both the main claim and the final verdict. |
 | Ask-me-anything      | Condensation   | Please summarise the fact-check, ensuring it contains: 1) The claim being verified, 2) The key evidence, and 3) The verdict and justification. Present as a sentence, bullet points, or structured pair (e.g., assertion/conclusion). |
