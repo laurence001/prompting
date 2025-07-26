@@ -2,7 +2,7 @@
 
 _Laurence Dierickx & Carl-Gustav Lindén, University of Bergen_
 
-Supporting materials for the paper "The less for the more: Evaluating prompting techniques in AI-assisted fact-checking" This repository includes prompt templates, task definitions, and prompt formulations used in a comparative evaluation of large language models (LLMs) for three fact-checking tasks such as summarisation, verdict formulation, and headline generation. These datasets support reproducibility and further research in prompting.
+Supporting materials for the paper "Strategic simplicity gets the most: Evaluating prompting techniques in AI-assisted fact-checking" This repository includes prompt templates, task definitions, and prompt formulations used in a comparative evaluation of large language models (LLMs) for three fact-checking tasks such as summarisation, verdict formulation, and headline generation. These datasets support reproducibility and further research in prompting.
 ## Tasks:
 - **Condensation**: Summarising fact-checks into concise leads.
 - **Evaluation**: Providing verdicts based on evidence.
