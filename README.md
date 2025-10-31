@@ -1,4 +1,4 @@
-# Evaluating prompting techniques in AI-assisted fact-checking
+# Evaluating prompting techniques in non-expert AI-assisted fact-checking
 
 _Laurence Dierickx, Andreas L. Opdahl & Carl-Gustav Lindén, University of Bergen_
 
